@@ -77,7 +77,7 @@ Usage
 •	The model is saved as model.tflearn for reuse.
 3.	Start the chatbot:
 ```bash
-python chatbot.py
+python3 chatbot.py
 ```
 
 4.	Chat with the bot:
